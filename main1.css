@@ -1,0 +1,33 @@
+.padre{
+
+   background-color:red;
+   position:static;
+   margin:40px;
+   padding:80px;
+   width:90px;
+   height:80px;
+
+      }
+
+ .hijomayor{
+
+   background-color:purple;
+   position:relative;
+   margin:-20px;
+   padding:60px;
+   width:20px;
+   height:10px;
+
+ }     
+
+ .hijomenor{
+
+   background-color:yellow;
+   position:absolute;
+   margin:-60px;
+   padding:20px;
+   width:-100px;
+   height:-90px;
+
+
+ }
